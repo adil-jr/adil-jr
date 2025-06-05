@@ -8,7 +8,7 @@
 ![Synchro Rate](https://img.shields.io/badge/SYNCHRO_RATE-100%25-FF0000?style=for-the-badge)
 ![NERV](https://img.shields.io/badge/NERV-CLASSIFIED-800080?style=for-the-badge&labelColor=000000)
 
-<img src="./assets/avatar.gif" width="150" style="border-radius: 50%; border: 3px solid #00FF00;"/>
+<img src="./assets/avatar.gif" width="150"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=adil-jr&color=800080&style=for-the-badge&label=TERMINAL+ACCESS)
 
