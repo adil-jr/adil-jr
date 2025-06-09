@@ -64,25 +64,25 @@
 ### 🚨 **Priority Alpha Operations** 🚨
 
 <a href="https://github.com/adil-jr/ProblemasJavaBeecrowd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adil-jr&repo=ProblemasJavaBeecrowd&theme=radical&bg_color=000000&title_color=800080&text_color=00FF00&icon_color=FF0000&border_color=800080" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adil-jr&repo=ProblemasJavaBeecrowd&theme=radical&bg_color=000000&title_color=800080&text_color=00FF00&icon_color=FF0000&border_color=800080&cache_seconds=0" />
 </a>
 
 *📋 **MISSION BRIEF:** Pilot Training Protocol - Advanced problem-solving algorithms for combat scenarios*
 
 <a href="https://github.com/adil-jr/rest-with-spring-boot-and-java">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adil-jr&repo=rest-with-spring-boot-and-java&theme=radical&bg_color=000000&title_color=800080&text_color=00FF00&icon_color=FF0000&border_color=800080" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adil-jr&repo=rest-with-spring-boot-and-java&theme=radical&bg_color=000000&title_color=800080&text_color=00FF00&icon_color=FF0000&border_color=800080&cache_seconds=0" />
 </a>
 
 *🧠 **MISSION BRIEF:** MAGI Supercomputer System - Core backend infrastructure powering NERV operations*
 
 <a href="https://github.com/adil-jr/conversor-moedas-java">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adil-jr&repo=conversor-moedas-java&theme=radical&bg_color=000000&title_color=800080&text_color=00FF00&icon_color=FF0000&border_color=800080" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adil-jr&repo=conversor-moedas-java&theme=radical&bg_color=000000&title_color=800080&text_color=00FF00&icon_color=FF0000&border_color=800080&cache_seconds=0" />
 </a>
 
 *💰 **MISSION BRIEF:** NERV Resource Calculator - Financial systems for funding Eva operations*
 
 <a href="https://github.com/adil-jr/dslist">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adil-jr&repo=dslist&theme=radical&bg_color=000000&title_color=800080&text_color=00FF00&icon_color=FF0000&border_color=800080" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adil-jr&repo=dslist&theme=radical&bg_color=000000&title_color=800080&text_color=00FF00&icon_color=FF0000&border_color=800080&cache_seconds=0" />
 </a>
 
 *👹 **MISSION BRIEF:** Angel Database System - Comprehensive catalog of Angel entities and combat data*
