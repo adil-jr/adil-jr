@@ -63,11 +63,11 @@
 
 ### 🚨 **Priority Alpha Operations** 🚨
 
-<a href="https://github.com/adil-jr/ProblemasJavaBeecrowd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adil-jr&repo=ProblemasJavaBeecrowd&theme=radical&bg_color=000000&title_color=800080&text_color=00FF00&icon_color=FF0000&border_color=800080&cache_seconds=0" />
+<a href="https://github.com/adil-jr/literadyu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adil-jr&repo=literadyu&theme=radical&bg_color=000000&title_color=800080&text_color=00FF00&icon_color=FF0000&border_color=800080&cache_seconds=0" />
 </a>
 
-*📋 **MISSION BRIEF:** Pilot Training Protocol - Advanced problem-solving algorithms for combat scenarios*
+*📜 **MISSION BRIEF:** Dead Sea Scrolls Archive - Ancient knowledge preservation and interpretation system*
 
 <a href="https://github.com/adil-jr/rest-with-spring-boot-and-java">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adil-jr&repo=rest-with-spring-boot-and-java&theme=radical&bg_color=000000&title_color=800080&text_color=00FF00&icon_color=FF0000&border_color=800080&cache_seconds=0" />
