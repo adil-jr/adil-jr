@@ -24,13 +24,15 @@ pilot:      Adilson Júnior
 role:       Developer — AI-assisted development
 base:       Amapá, Brazil 🇧🇷
 focus:      [Python, LLMs, AI agents, automation]
-background: [Java, Spring Boot, REST APIs, PostgreSQL, TypeScript]
+work:       [Python, Django, Docker, PostgreSQL]
+studied:    [Java, Spring Boot, TypeScript, Node.js]
 mission:    "Developing systems that save humanity, one commit at a time."
 ```
 
 - 🤖 Current focus: **AI-assisted development** — building software alongside LLMs and coding agents
 - 🐍 **Python** as my main language for new projects: AI integrations, agents, and automation
-- 🏗️ Backed by a **backend foundation** in Java & Spring Boot — APIs, persistence, scalable architecture
+- 🏗️ Professional background in **Python & Django** — containerized with Docker, backed by PostgreSQL
+- ☕ Also studied **Java & Spring Boot** and the **TypeScript** ecosystem — the projects pinned below
 - 🚧 AI projects are on the way — this profile will be filling up soon
 
 ---
@@ -48,13 +50,13 @@ mission:    "Developing systems that save humanity, one commit at a time."
 <img src="https://img.shields.io/badge/AI_Agents-1a0033?style=for-the-badge&logo=robotframework&logoColor=00ff9c" alt="AI Agents"/>
 <img src="https://img.shields.io/badge/MCP-0d0117?style=for-the-badge&logo=modelcontextprotocol&logoColor=b07cff" alt="MCP"/>
 
-**Backend Foundation**
+**Professional Background**
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,hibernate,maven&theme=dark" alt="Backend stack"/>
+<img src="https://skillicons.dev/icons?i=django,docker,postgres,git,linux&theme=dark" alt="Professional stack"/>
 
-**Full-stack & Tooling**
+**Also Studied**
 
-<img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,nextjs,react,graphql,git,linux,vscode&theme=dark" alt="Full-stack & tooling"/>
+<img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,nestjs,nextjs,react,graphql&theme=dark" alt="Studied stack"/>
 
 </div>
 
@@ -66,7 +68,7 @@ mission:    "Developing systems that save humanity, one commit at a time."
 
 > 🚧 **Incoming: AI operations** — Python + LLM projects are being prepared for deployment.
 
-<sub><b>Mission Archive — backend & full-stack</b></sub>
+<sub><b>Mission Archive — study projects (Java & TypeScript)</b></sub>
 
 <table>
   <tr>
