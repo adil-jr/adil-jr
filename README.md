@@ -1,209 +1,134 @@
-# 🚀 Third Impact Initiated... System Online
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=800080&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Third+Impact+Initiated...;AT+Field+Activated;Synchro+Rate%3A+100%25;Pilot+Adilson+Junior+Ready)](https://git.io/typing-svg)
 
-![AT Field](https://img.shields.io/badge/AT_FIELD-ACTIVATED-00FF00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBvbHlnb24gcG9pbnRzPSIxMiwwIDIwLjQ4NTIsNi4wIDIwLjQ4NTIsMTggMTIsMjQgMy41MTQ4MiwxOCAzLjUxNDgyLDYiIGZpbGw9IiMwMEZGMDAiLz4KPC9zdmc+)
-![Synchro Rate](https://img.shields.io/badge/SYNCHRO_RATE-100%25-FF0000?style=for-the-badge)
-![NERV](https://img.shields.io/badge/NERV-CLASSIFIED-800080?style=for-the-badge&labelColor=000000)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:5b2a86,100:00ff9c&height=180&section=header&text=Adilson%20J%C3%BAnior&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Backend%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20Spring%20%E2%80%A2%20TypeScript&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<img src="./assets/avatar.gif" width="150"/>
+<img src="./assets/avatar.gif" width="130" alt="Avatar"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=adil-jr&color=800080&style=for-the-badge&label=TERMINAL+ACCESS)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=560&lines=%3E+Pilot+Adilson+J%C3%BAnior+ready;%3E+Synchro+rate%3A+100%25;%3E+Building+scalable+backends+with+Java+%26+Spring;%3E+Exploring+TypeScript%2C+Go+%26+Rust" alt="Typing SVG"/></a>
 
-</div>
-
----
-
-## 👨‍💻 Pilot Information
-
-<p align="center">
-  <img src="./assets/pilot_information.gif" alt="Animated GIF" />
+<p>
+  <a href="https://linkedin.com/in/adil-jr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:adil.jr@outlook.com"><img src="https://img.shields.io/badge/Email-5B2A86?style=flat-square&logo=maildotru&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Amap%C3%A1%2C%20Brazil-1a0033?style=flat-square&logo=googlemaps&logoColor=00ff9c" alt="Location"/>
+  <img src="https://komarev.com/ghpvc/?username=adil-jr&color=5b2a86&style=flat-square&label=profile+views" alt="Profile views"/>
 </p>
 
-<div align="center">
-
-**[ `Developing systems that save humanity, one commit at a time` ]**
-
 </div>
 
 ---
 
-## 🤖 Eva Units (Tech Stack)
+### `> whoami`
 
-<div align="center">
-
-### Core Systems
-
-[![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=800080)](https://www.java.com/)
-[![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=800080)](https://spring.io/projects/spring-boot)
-[![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=800080)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=800080)](https://www.mysql.com/)
-
-### Weapons Systems
-
-[![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=00FF00)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=FF0000)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=800080)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-### Terminal Interface
-
-[![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)](https://git-scm.com/)
-[![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=800080)](https://code.visualstudio.com/)
-[![IntelliJ](https://img.shields.io/badge/INTELLIJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=FF0000)](https://www.jetbrains.com/idea/)
-
-</div>
-
----
-
-## 🎯 NERV Projects
-
-<div align="center">
-
-### 🚨 **Priority Alpha Operations** 🚨
-
-<a href="https://github.com/adil-jr/literadyu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adil-jr&repo=literadyu&theme=radical&bg_color=000000&title_color=800080&text_color=00FF00&icon_color=FF0000&border_color=800080&cache_seconds=0" />
-</a>
-
-*📜 **MISSION BRIEF:** Dead Sea Scrolls Archive - Ancient knowledge preservation and interpretation system*
-
-<a href="https://github.com/adil-jr/rest-with-spring-boot-and-java">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adil-jr&repo=rest-with-spring-boot-and-java&theme=radical&bg_color=000000&title_color=800080&text_color=00FF00&icon_color=FF0000&border_color=800080&cache_seconds=0" />
-</a>
-
-*🧠 **MISSION BRIEF:** MAGI Supercomputer System - Core backend infrastructure powering NERV operations*
-
-<a href="https://github.com/adil-jr/conversor-moedas-java">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adil-jr&repo=conversor-moedas-java&theme=radical&bg_color=000000&title_color=800080&text_color=00FF00&icon_color=FF0000&border_color=800080&cache_seconds=0" />
-</a>
-
-*💰 **MISSION BRIEF:** NERV Resource Calculator - Financial systems for funding Eva operations*
-
-<a href="https://github.com/adil-jr/dslist">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adil-jr&repo=dslist&theme=radical&bg_color=000000&title_color=800080&text_color=00FF00&icon_color=FF0000&border_color=800080&cache_seconds=0" />
-</a>
-
-*👹 **MISSION BRIEF:** Angel Database System - Comprehensive catalog of Angel entities and combat data*
-
-</div>
-
----
-
-## 📊 Combat Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adil-jr&show_icons=true&theme=radical&bg_color=000000&title_color=800080&text_color=00FF00&icon_color=FF0000&border_color=800080&count_private=true&include_all_commits=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adil-jr&layout=compact&theme=radical&bg_color=000000&title_color=800080&text_color=00FF00&border_color=800080" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adil-jr&theme=radical&background=000000&border=800080&stroke=00FF00&ring=FF0000&fire=FF0000&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=800080&sideLabels=800080&dates=FFFFFF" />
-
-### Activity Graph - Neural Interface Synchronization
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adil-jr&theme=tokyo-night&bg_color=000000&color=00FF00&line=800080&point=FF0000&area=true&hide_border=false&border_color=800080" />
-
-</div>
-
----
-
-## 🛰️ Contact Terminal
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────┐
-│               NERV COMMUNICATION MATRIX                 │
-├─────────────────────────────────────────────────────────┤
-│  > Initiating quantum entanglement protocols...         │
-│  > Establishing secured channels...                     │
-│  > Connection stabilized                                │
-└─────────────────────────────────────────────────────────┘
+```yaml
+pilot:      Adilson Júnior
+role:       Backend Developer
+base:       Amapá, Brazil 🇧🇷
+core:       [Java, Spring Boot, REST APIs, PostgreSQL]
+exploring:  [TypeScript, NestJS, Next.js, Go, Rust]
+mission:    "Developing systems that save humanity, one commit at a time."
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=800080)](https://linkedin.com/in/adil-jr)
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF0000)](mailto:adil.jr@outlook.com)
+- 🧠 Focused on **clean, scalable backend architecture** — REST & GraphQL APIs, persistence, rate limiting
+- 🌐 Expanding into the **full-stack TypeScript** ecosystem (React 19, Next.js, NestJS, Bun)
+- 🦀 Currently learning **Rust** and **Go** on the side
+- 🧩 Sharpening problem-solving on Beecrowd & algorithm courses
+
+---
+
+### 🤖 Eva Units — Tech Stack
+
+<div align="center">
+
+**Core Systems**
+
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,hibernate,maven&theme=dark" alt="Core stack"/>
+
+**Full-stack & Runtime**
+
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,bun,nestjs,nextjs,react,graphql&theme=dark" alt="Full-stack"/>
+
+**Learning & Tooling**
+
+<img src="https://skillicons.dev/icons?i=go,rust,c,git,linux,vscode,idea&theme=dark" alt="Tooling"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-## 🎵 Current Mission Soundtrack
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                          🎵 MAGI AUDIO SYSTEM 🎵                     ║
-║──────────────────────────────────────────────────────────────────────║
-║  ███╗   ██╗███████╗██████╗ ██╗   ██╗   [TERMINAL ATIVO]              ║
-║  ████╗  ██║██╔════╝██╔══██╗██║   ██║   Status: ████████████ 100%     ║
-║  ██╔██╗ ██║█████╗  ██████╔╝██║   ██║   Sync Ratio: MÁXIMO            ║
-║  ██║╚██╗██║██╔══╝  ██╔══██╗╚██╗ ██╔╝                                 ║
-║  ██║ ╚████║███████╗██║  ██║ ╚████╔╝    ♫ REPRODUZINDO AGORA ♫        ║
-║  ╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝  ╚═══╝                                   ║
-║                                                                      ║
-║  🎼 TÍTULO: A Cruel Angel's Thesis (残酷な天使のテーゼ)                 ║
-║  🎤 ARTISTA: Yoko Takahashi (高橋洋子)                                ║
-║  💿 ÁLBUM: Neon Genesis Evangelion                                   ║
-║  📅 ANO: 1995 | ⏱️ DURAÇÃO: 4:06                                     ║
-║                                                                      ║
-║  ▶️ PROGRESSO: ████████████████████████░░░░░░  [3:12/4:06]           ║
-║                                                                      ║
-║  📊 CONTROLES:                                                       ║
-║  ├─ Volume: ████████████████░░░░ 80%                                 ║
-║  ├─ Status: 🔊 ATIVO | 🎯 PADRÃO AZUL DETECTADO                      ║
-║  └─ Link: https://open.spotify.com/intl-pt/track/3x4378z...          ║
-║                                                                      ║
-║  "Like a cruel angel's thesis, boys and girls will become legends..."║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-[![Listen on Spotify](https://img.shields.io/badge/Listen_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-pt/track/3x4378ztiLvFmm2nuzEI0C?si=b3692bc141114edc)
-
-*"Like a cruel angel's thesis, boys and girls will become legends..."* 🎼
-
-</div>
-
-
----
-
-## 💡 System Status
+### 🎯 NERV Projects — Priority Operations
 
 <div align="center">
 
-```
-  ╔═══════════════════════════════════════════════════════╗
-  ║                   NERV SYSTEM STATUS                  ║
-  ╠═══════════════════════════════════════════════════════╣
-  ║  ● Eva Unit 01: STANDBY                               ║
-  ║  ● LCL Compatibility: 100%                            ║
-  ║  ● AT Field Generator: ONLINE                         ║
-  ║  ● Central Dogma Access: AUTHORIZED                   ║
-  ║  ● Human Instrumentality Project: [CLASSIFIED]        ║
-  ║                                                       ║
-  ║  "You (mustn't) run away"                             ║
-  ╚═══════════════════════════════════════════════════════╝
-```
-
-**"The fate of humanity rests in the hands of a child... and clean code."**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/adil-jr/leaky-bucket-bacen-example"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adil-jr&repo=leaky-bucket-bacen-example&theme=radical&bg_color=0d0117&title_color=00ff9c&text_color=e6e6e6&icon_color=b07cff&border_color=5b2a86" width="100%"/></a>
+      <br/><sub>🛡️ <b>AT Field Controller</b> — full-stack Leaky Bucket rate limiter (Koa · GraphQL · React · Relay)</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/adil-jr/cyber-rift"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adil-jr&repo=cyber-rift&theme=radical&bg_color=0d0117&title_color=00ff9c&text_color=e6e6e6&icon_color=b07cff&border_color=5b2a86" width="100%"/></a>
+      <br/><sub>🌌 <b>Entry Plug Visuals</b> — reactive 3D LoL showcase (Bun · React 19 · R3F)</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/adil-jr/literadyu"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adil-jr&repo=literadyu&theme=radical&bg_color=0d0117&title_color=00ff9c&text_color=e6e6e6&icon_color=b07cff&border_color=5b2a86" width="100%"/></a>
+      <br/><sub>📜 <b>Dead Sea Scrolls Archive</b> — book catalog on Gutendex (Java 21 · Spring Data JPA · PostgreSQL)</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/adil-jr/forumhub-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adil-jr&repo=forumhub-api&theme=radical&bg_color=0d0117&title_color=00ff9c&text_color=e6e6e6&icon_color=b07cff&border_color=5b2a86" width="100%"/></a>
+      <br/><sub>🧠 <b>MAGI Comms</b> — forum REST API (Java · Spring Boot)</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/adil-jr/dslist"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adil-jr&repo=dslist&theme=radical&bg_color=0d0117&title_color=00ff9c&text_color=e6e6e6&icon_color=b07cff&border_color=5b2a86" width="100%"/></a>
+      <br/><sub>👹 <b>Angel Database</b> — game collection REST API with custom ordering (Spring Boot)</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/adil-jr/nestjs-for-nextjs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adil-jr&repo=nestjs-for-nextjs&theme=radical&bg_color=0d0117&title_color=00ff9c&text_color=e6e6e6&icon_color=b07cff&border_color=5b2a86" width="100%"/></a>
+      <br/><sub>⚙️ <b>Central Dogma</b> — NestJS backend powering a Next.js blog (TypeScript)</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
+### 📊 Combat Stats
+
 <div align="center">
 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=adil-jr&show_icons=true&theme=radical&bg_color=0d0117&title_color=00ff9c&text_color=e6e6e6&icon_color=b07cff&border_color=5b2a86&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adil-jr&layout=compact&langs_count=8&theme=radical&bg_color=0d0117&title_color=00ff9c&text_color=e6e6e6&border_color=5b2a86" alt="Top languages"/>
 
+<img src="https://streak-stats.demolab.com/?user=adil-jr&theme=radical&background=0d0117&border=5b2a86&stroke=5b2a86&ring=00ff9c&fire=b07cff&currStreakNum=00ff9c&sideNums=e6e6e6&currStreakLabel=00ff9c&sideLabels=b07cff&dates=8b8b9a" alt="GitHub streak"/>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdkMzNhemF0cm9sa3cwazI1azc4djJzY3dhaWZzdXh2aDlma2kzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/de2Bd0zXO07EIxwLj8/giphy.gif" width="200"/>
+<sub><b>Neural Interface Synchronization</b></sub>
 
-*"The Eva is not just a machine... it's a manifestation of the pilot's soul"*
+<img width="100%" src="https://ghchart.rshah.org/5b2a86/adil-jr" alt="Contribution chart"/>
+
+</div>
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=800080&height=100&section=footer&fontSize=30&fontColor=00FF00&animation=fadeIn)
+### 💡 System Status
+
+```diff
++ Eva Unit-01 ............ ONLINE
++ AT Field Generator ..... ACTIVE
++ Synchro Rate ........... 100%
+! Current Mission ........ Mastering Rust & Go
+- Running away ........... NOT AN OPTION
+```
+
+<div align="center">
+
+🎵 *Now playing:* [**A Cruel Angel's Thesis** — Yoko Takahashi](https://open.spotify.com/intl-pt/track/3x4378ztiLvFmm2nuzEI0C)
+
+<sub><i>"The fate of humanity rests in the hands of a child... and clean code."</i></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:5b2a86,100:1a0033&height=110&section=footer" width="100%"/>
 
 </div>
