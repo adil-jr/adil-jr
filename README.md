@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:5b2a86,100:00ff9c&height=180&section=header&text=Adilson%20J%C3%BAnior&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Backend%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20Spring%20%E2%80%A2%20TypeScript&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:5b2a86,100:00ff9c&height=180&section=header&text=Adilson%20J%C3%BAnior&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI-Assisted%20Development%20%E2%80%A2%20Python%20%E2%80%A2%20Backend&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <img src="./assets/avatar.gif" width="130" alt="Avatar"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=560&lines=%3E+Pilot+Adilson+J%C3%BAnior+ready;%3E+Synchro+rate%3A+100%25;%3E+Building+scalable+backends+with+Java+%26+Spring;%3E+Exploring+TypeScript%2C+Go+%26+Rust" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=560&lines=%3E+Pilot+Adilson+J%C3%BAnior+ready;%3E+Synchro+rate+with+AI%3A+100%25;%3E+Building+with+Python+%2B+LLMs;%3E+AI+as+copilot%2C+human+as+pilot" alt="Typing SVG"/></a>
 
 <p>
   <a href="https://linkedin.com/in/adil-jr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -21,17 +21,17 @@
 
 ```yaml
 pilot:      Adilson Júnior
-role:       Backend Developer
+role:       Developer — AI-assisted development
 base:       Amapá, Brazil 🇧🇷
-core:       [Java, Spring Boot, REST APIs, PostgreSQL]
-exploring:  [TypeScript, NestJS, Next.js, Go, Rust]
+focus:      [Python, LLMs, AI agents, automation]
+background: [Java, Spring Boot, REST APIs, PostgreSQL, TypeScript]
 mission:    "Developing systems that save humanity, one commit at a time."
 ```
 
-- 🧠 Focused on **clean, scalable backend architecture** — REST & GraphQL APIs, persistence, rate limiting
-- 🌐 Expanding into the **full-stack TypeScript** ecosystem (React 19, Next.js, NestJS, Bun)
-- 🦀 Currently learning **Rust** and **Go** on the side
-- 🧩 Sharpening problem-solving on Beecrowd & algorithm courses
+- 🤖 Current focus: **AI-assisted development** — building software alongside LLMs and coding agents
+- 🐍 **Python** as my main language for new projects: AI integrations, agents, and automation
+- 🏗️ Backed by a **backend foundation** in Java & Spring Boot — APIs, persistence, scalable architecture
+- 🚧 AI projects are on the way — this profile will be filling up soon
 
 ---
 
@@ -39,25 +39,34 @@ mission:    "Developing systems that save humanity, one commit at a time."
 
 <div align="center">
 
-**Core Systems**
+**Primary Unit — AI & Python**
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,hibernate,maven&theme=dark" alt="Core stack"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark" alt="Python stack"/>
 
-**Full-stack & Runtime**
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code"/>
+<img src="https://img.shields.io/badge/LLMs-5B2A86?style=for-the-badge" alt="LLMs"/>
+<img src="https://img.shields.io/badge/AI_Agents-1a0033?style=for-the-badge&logo=robotframework&logoColor=00ff9c" alt="AI Agents"/>
+<img src="https://img.shields.io/badge/MCP-0d0117?style=for-the-badge&logo=modelcontextprotocol&logoColor=b07cff" alt="MCP"/>
 
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,bun,nestjs,nextjs,react,graphql&theme=dark" alt="Full-stack"/>
+**Backend Foundation**
 
-**Learning & Tooling**
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,hibernate,maven&theme=dark" alt="Backend stack"/>
 
-<img src="https://skillicons.dev/icons?i=go,rust,c,git,linux,vscode,idea&theme=dark" alt="Tooling"/>
+**Full-stack & Tooling**
+
+<img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,nextjs,react,graphql,git,linux,vscode&theme=dark" alt="Full-stack & tooling"/>
 
 </div>
 
 ---
 
-### 🎯 NERV Projects — Priority Operations
+### 🎯 NERV Projects
 
 <div align="center">
+
+> 🚧 **Incoming: AI operations** — Python + LLM projects are being prepared for deployment.
+
+<sub><b>Mission Archive — backend & full-stack</b></sub>
 
 <table>
   <tr>
@@ -119,7 +128,7 @@ mission:    "Developing systems that save humanity, one commit at a time."
 + Eva Unit-01 ............ ONLINE
 + AT Field Generator ..... ACTIVE
 + Synchro Rate ........... 100%
-! Current Mission ........ Mastering Rust & Go
+! Current Mission ........ AI-assisted dev w/ Python
 - Running away ........... NOT AN OPTION
 ```
 
