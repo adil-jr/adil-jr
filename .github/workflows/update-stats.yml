@@ -1,0 +1,50 @@
+name: Update Combat Stats
+
+on:
+  schedule:
+    - cron: "0 * * * *" # a cada hora
+  push:
+    branches: [main]
+    paths-ignore:
+      - "assets/stats/**"
+  workflow_dispatch:
+
+concurrency:
+  group: update-stats
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v6
+
+      # STATS_TOKEN (PAT com repo + read:user) conta repos privados; sem ele cai no GITHUB_TOKEN (só dados públicos)
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=adil-jr&show_icons=true&theme=radical&bg_color=0d0117&title_color=00ff9c&text_color=e6e6e6&icon_color=b07cff&border_color=5b2a86&count_private=true&include_all_commits=true&rank_icon=github
+          path: assets/stats/stats.svg
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=adil-jr&layout=compact&langs_count=8&theme=radical&bg_color=0d0117&title_color=00ff9c&text_color=e6e6e6&border_color=5b2a86
+          path: assets/stats/top-langs.svg
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats/*.svg
+          git commit -m "chore: update combat stats cards" || exit 0
+          git pull --rebase
+          git push

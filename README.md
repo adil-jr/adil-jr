@@ -111,8 +111,8 @@ mission:    "Developing systems that save humanity, one commit at a time."
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=adil-jr&show_icons=true&theme=radical&bg_color=0d0117&title_color=00ff9c&text_color=e6e6e6&icon_color=b07cff&border_color=5b2a86&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adil-jr&layout=compact&langs_count=8&theme=radical&bg_color=0d0117&title_color=00ff9c&text_color=e6e6e6&border_color=5b2a86" alt="Top languages"/>
+<img height="165" src="./assets/stats/stats.svg" alt="GitHub stats"/>
+<img height="165" src="./assets/stats/top-langs.svg" alt="Top languages"/>
 
 <img src="https://streak-stats.demolab.com/?user=adil-jr&theme=radical&background=0d0117&border=5b2a86&stroke=5b2a86&ring=00ff9c&fire=b07cff&currStreakNum=00ff9c&sideNums=e6e6e6&currStreakLabel=00ff9c&sideLabels=b07cff&dates=8b8b9a" alt="GitHub streak"/>
 
